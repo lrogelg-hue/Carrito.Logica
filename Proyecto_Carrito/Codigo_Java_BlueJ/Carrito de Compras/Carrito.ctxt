@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Aug 30 15:45:21 CST 2026
+comment0.target=Carrito
+comment1.target=Carrito()
+comment2.params=p
+comment2.target=void agregarProducto(Producto)
+comment3.target=double cotizar()
+comment4.target=java.util.ArrayList getProductos()
+numComments=5

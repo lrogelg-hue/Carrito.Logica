@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Aug 30 15:45:21 CST 2026
+comment0.target=Banco
+comment1.params=tarjeta
+comment1.target=boolean verificarTarjeta(Tarjeta)
+comment2.params=monto tarjeta
+comment2.target=void pagar(double, Tarjeta)
+numComments=3

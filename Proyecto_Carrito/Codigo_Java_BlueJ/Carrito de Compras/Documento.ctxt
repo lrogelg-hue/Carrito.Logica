@@ -1,0 +1,6 @@
+#BlueJ class context
+#Sun Aug 30 15:45:21 CST 2026
+comment0.target=Documento
+comment1.params=cliente carrito
+comment1.target=void registrarYEnviar(Cliente, Carrito)
+numComments=2
